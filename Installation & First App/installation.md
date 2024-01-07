@@ -79,7 +79,7 @@ After that we need to create our project folder. And continue with the following
    uvicorn main:app --reload
    ```
 
-**Note:** Every time to run again the project (server) after closing the IDE or restarting our OS, we need to repeat the step no 2 and step no 6. That is first we need to activate the virtual environment and then we've run the project.
+**Note:** Every time to run again the project (server) after closing the IDE or restarting our OS, we need to repeat the step no 2 and step no 6. That is first we need to activate the virtual environment and then we've to run the project.
 
 That's it. We've learned how we can start with FastAPI for backend programming.
 
